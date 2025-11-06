@@ -24,7 +24,7 @@
 
 
 ### Краткая информация о данных
-Файл с исходными данными вы можете скачать [здесь](https://github.com/dnt1971/SkillFactory_dnt_ML_7_HW_03/tree/master/data/_train_sem09%20%(1).csv).
+Файл с исходными данными вы можете скачать [здесь](https://github.com/dnt1971/SkillFactory_dnt_ML_7_HW_03/tree/master/data/_train_sem09%20(1).csv).
 
 :arrow_up:[к оглавлению](#оглавление)
 
